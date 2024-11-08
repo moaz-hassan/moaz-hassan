@@ -1,7 +1,7 @@
 # Welcome to Moaz's profile! 👋
 
-- 💻 I'm a React and Next.js developer focused on building scalable and user-friendly applications.
-- 🌱 Currently learning more about Appwrite and backend integration, always eager to explore new technologies.
+- 💻 I'm a React and Next.js developer focused on building scalable and user-friendly web applications.
+- 🌱 Always learning new tools and techniques to improve my skills and deliver better solutions.
 - 💬 Feel free to ask me about web development, React, Next.js, or anything coding-related.
 - ⚡ Fun Fact: I enjoy problem-solving and competitive programming.
 - 📈 Check out my projects and portfolio to see what I’m working on.
