@@ -10,4 +10,4 @@
 [LinkedIn](https://www.linkedin.com/in/moaz-hassan) | [GitHub](https://github.com/moaz-hassan)
 
 ## 🛠️ Tech Stack:
-🔹 React | 🔹 Next.js | 🔹 JavaScript | 🔹 HTML | 🔹 CSS | 🔹 Problem Solving
+🔹 React | 🔹 Next.js | 🔹 JavaScript | 🔹 HTML | 🔹 CSS | 🔹 Problem Solving | 🔹 Object Oriented Programing 
